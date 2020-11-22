@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.3
+Created-By: 1.8.0_65-b17 (Oracle Corporation)
+Specification-Version: 2.0
+Implementation-Title: ICPC Resolver
+Implementation-Version: 1798
+Built-On: Monday, September 24 2018 23:28 UTC
+Built-On-Date: 20180924
+Main-Class: org.acmicpc.resolver.Resolver
+Class-Path: contestModel.jar presentContest.jar
+
